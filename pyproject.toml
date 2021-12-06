@@ -8,6 +8,7 @@ authors = ["Moha-AlHanbali <moha.alhanbali@gmail.com>"]
 python = "^3.9"
 
 [tool.poetry.dev-dependencies]
+pytest = "^5.2"
 black = "^21.12b0"
 flake8 = "^4.0.1"
 
